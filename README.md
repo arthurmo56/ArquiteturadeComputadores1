@@ -1,19 +1,55 @@
 # ArquiteturadeComputadores1
-Este curso aborda os princípios fundamentais da arquitetura de computadores, fornecendo uma compreensão abrangente das tecnologias e conceitos subjacentes aos sistemas computacionais modernos.
+Este repositório aborda uma variedade de tópicos relacionados à arquitetura de computadores, fornecendo recursos e informações sobre sistemas de numeração, lógica booleana, análise e síntese de circuitos, e arquitetura de computadores.
 
+## Tópicos Abordados
 
-## 1. Sistemas de Numeração e Lógica Digital
-Exploração dos sistemas de numeração, lógica booleana, álgebra de proposições e suas aplicações em circuitos lógicos.
+### Sistemas de Numeração
 
-## 2. Circuitos Combinacionais e Sequenciais
-Estudo aprofundado dos circuitos combinacionais e sequenciais, incluindo latches, flip-flops e suas aplicações.
+- Decimal, binário, octal e hexadecimal
+- Notação posicional
+- Conversão entre bases
+- Operações aritméticas em binário e bases associadas
+- Representação numérica em ponto fixo e em ponto flutuante
 
-## 3. Unidades Funcionais do Computador
-Análise das principais unidades funcionais de um computador, como unidades de entrada e saída, unidade lógica e aritmética, unidade de controle e memória principal.
+### Lógica Booleana
 
-## 4. Microprocessadores e Arquitetura do Conjunto de Instruções
-Exploração dos microprocessadores, seus blocos funcionais, funções e aspectos construtivos, além da arquitetura do conjunto de instruções.
+- Álgebra de proposições e suas aplicações em circuitos lógicos
+- Minimização de funções booleanas
+  - Simplificações de circuitos
+  - Simplificação algébrica
+  - Mapa de Veitch-Karnaugh
+  - Método de Quine-McCluskey
 
-## 5. Descrição e Simulação de Hardware
-Estudo das técnicas de descrição e simulação de hardware, incluindo linguagens como VERILOG, VHDL, SystemC e SystemVerilog.
+### Análise e Síntese de Circuitos
 
+- Circuitos combinacionais
+- Circuitos sequenciais assíncronos e síncronos: latches e flip-flops
+- Circuitos integrados: memórias, comparadores, ALUs etc.
+- Dispositivos lógicos programáveis (CPLD): ROMs, PALs, PLAs
+- Outros dispositivos reconfiguráveis
+
+### Arquitetura de Computadores
+
+- Tipos de computador
+- Modelo de arquitetura de computador
+- Unidades de entrada e saída
+- Unidade lógica e aritmética
+- Unidade de controle
+- Memória principal
+- Vias de controle, de dados e de endereços
+- Microprocessadores
+- Blocos funcionais
+- Funções
+- Aspectos construtivos e sua evolução
+- Arquitetura do conjunto de instruções
+
+## Tecnologias e Linguagens Utilizadas
+
+Os tópicos são abordados utilizando várias tecnologias e linguagens, incluindo:
+
+- VERILOG
+- VHDL
+- SystemC
+- SystemVerilog
+- Logisim
+- JFlap
