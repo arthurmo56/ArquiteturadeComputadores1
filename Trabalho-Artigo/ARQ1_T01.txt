@@ -1,0 +1,105 @@
+Arq 1 - Atividade Prática
+Nome: Arthur Martinho Medeiros Oliveira
+Matricula: 813168
+
+1.)
+https://d1wqtxts1xzle7.cloudfront.net/48391125/FPGA-libre.pdf?1472426656=&response-content-disposition=inline%3B+filename%3Dunesp_UNIVERSIDADE_ESTADUAL_PAULISTA_Cam.pdf&Expires=1697492707&Signature=dPIGUKr3xAyi5KtZbUwU-xxNV274nlybKXiI2BPM8v3adGlzUdju~gYs1CWl9rz0JgxfIuB9SWbqe~8mhuNkGexLXmDVlQZoOztrZqPUO-mU7bLgsZ8793KATOvxJPgambcggsdPsGUQBLbq4q3zIw9uNWAxeJZCOn0dMUPw9DzQEAaTvX3PM4YLS-85JDa0TAc3I-AyAo7eHTDqtKumiE3jy8qCG2tCpWIwZ6UtpGki498RiYb9TlxBaVG70ROF~~EwVNfsrypjsnG6gO6DP4wfTXUMVnadSeV9BEjXxumzvM61BPstw1x5sRYAdTPbdxg1kGmxbXnmLL2JyeV3XA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+2.)
+Título do Artigo:
+Dispositivos de Lógica Programável
+
+Autores:
+Caio Augusto de Oliveira
+Jéssica Azevedo de Aguiar
+Mateus Galvão Said Fontanini
+
+Instituição:
+UNESP (Universidade Estadual Paulista)
+Campus de Guaratinguetá
+Colégio Técnico Industrial de Guaratinguetá "Professor Carlos Augusto Patrício Amorim"
+
+Departamento:
+Tópicos relacionados a Dispositivos Lógicos Programáveis.
+
+Resumo:
+O artigo inicia com uma introdução destacando a evolução do mercado de circuitos eletrônicos,
+com ênfase nos Dispositivos Lógicos Reprogramáveis (PLD) e sua influência na indústria eletrônica.
+Também menciona o potencial da computação reconfigurável e a automação dos processos industriais
+como áreas de crescimento.
+
+Conteúdo Abordado:
+O artigo apresenta tópicos como Lógica Programável, Tecnologia FPGA, Blocos Lógicos de FPGA,
+Granularidade, Arquitetura geral de roteamento, Técnicas de Configuração, Família de FPGAs 
+disponíveis no mercado, Desenvolvimento de projetos utilizando FPGA, Ambiente de Software EDA 
+(Eletronic Design Automation) e Dicas.
+
+3.)
+ASIC (Application-Specific Integrated Circuit):
+Definição: Um ASIC é um circuito integrado projetado sob medida para uma aplicação específica. 
+Ele é personalizado para executar uma função ou conjunto específico de funções.
+Características: ASICs oferecem alto desempenho, baixo consumo de energia e tamanho compacto. 
+No entanto, eles têm altos custos de design e fabricação, sendo ideais para grandes volumes de produção.
+
+ASSP (Application-Specific Standard Product):
+Definição: Um ASSP é um circuito integrado projetado para atender a um conjunto específico de requisitos 
+de uma aplicação comum, em oposição a uma aplicação única.
+Características: Os ASSPs são projetados para serem usados em várias aplicações sem a necessidade de 
+personalização. Eles equilibram a flexibilidade e o desempenho, sendo uma solução intermediária entre ASICs 
+e circuitos integrados de propósito geral.
+
+SPLD (Simple Programmable Logic Device):
+Definição: Um SPLD é um dispositivo lógico programável que é usado para implementar funções lógicas simples. 
+Ele é programado para realizar tarefas específicas.
+Características: SPLDs são usados em projetos que envolvem lógica combinatória e funções relativamente simples. 
+São menos versáteis do que CPLDs e FPGAs, mas oferecem uma solução econômica para tarefas específicas.
+
+CPLD (Complex Programmable Logic Device):
+Definição: Um CPLD é um dispositivo lógico programável mais complexo em comparação com o SPLD. Ele é projetado 
+para implementar funções lógicas mais complexas, incluindo funções sequenciais.
+Características: CPLDs são flexíveis e podem lidar com projetos mais complexos, como sistemas sequenciais. 
+Eles oferecem um compromisso entre a complexidade e o custo em relação aos ASICs.
+
+SOC (System-on-Chip):
+Definição: SOC é um circuito integrado que integra todos os componentes necessários para um sistema completo em 
+um único chip. Isso inclui CPU, memória, periféricos e outros recursos.
+Características: SOC é altamente integrado, economiza espaço, consome menos energia e é frequentemente usado em 
+dispositivos móveis e sistemas embarcados.
+
+FPGA (Field Programmable Gate Array):
+Definição: Um FPGA é um dispositivo lógico programável que permite a configuração de funções lógicas e circuitos
+diretamente no hardware.
+Características: FPGAs são altamente versáteis e reconfiguráveis. Eles são usados em uma ampla gama de aplicações, 
+incluindo prototipagem rápida, processamento paralelo, controle de hardware e muito mais.
+
+
+4.)
+___________________________________________________________________________________________________________________________________________________________________
+| Características        | PROM                                | PLA                                             | PAL                                             |
+|------------------------|-------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Nome                   | Programmable Read-Only Memory       | Programable Logic Array                         | Programable Array Logic     			   |
+| Tipo de Dispositivo    | Memória programável                 | Dispositivo lógico programável                  | Dispositivo lógico programável 		   |
+| Funcionalidade         | Armazenamento de dados fixos        | Implementação de funções lógicas                | Implementação de funções lógicas 		   |
+| Implementação          | Matriz de fusíveis                  | Matriz de ANDs e ORs                            | Matriz de ANDs e ORs                            |
+| Versatilidade          | Baixa                               | Alta                                            | Média                                           |
+| Flexibilidade          | Limitada                            | Alta                                            | Média                                           |
+| Uso Comum              | Armazenamento de tabelas de look-up | Implementação de funções lógicas personalizadas | Implementação de funções lógicas personalizadas |
+| Exemplo de Aplicação   | Tabelas de conversão ADC            | Implementação de funções lógicas customizadas   | Implementação de funções lógicas customizadas   |
+|________________________|_____________________________________|_________________________________________________|_________________________________________________|
+
+
+5.)
+__________________________________________________________________________________________________________________________________________________________
+| Características          | CPLD (Complex Programmable Logic Device)       | FPGA (Field Programmable Gate Array)                                       |
+|--------------------------|------------------------------------------------|----------------------------------------------------------------------------|
+| Nome                     | Complex Programmable Logic Device              | Field Programmable Gate Array        					 |
+| Tipo de Dispositivo      | Dispositivo lógico programável complexo        | Matriz de portas programável         					 |
+| Flexibilidade            | Menos flexível que FPGA                        | Altamente flexível e reconfigurável  					 |
+| Estrutura interna        | Baseado em blocos lógicos interconectados      | Matriz de portas configuráveis                                             |
+| Complexidade de Projetos | Adequado para projetos de complexidade média   | Adequado para projetos de alta complexidade                                |
+| Velocidade de Operação   | Geralmente menor que FPGA                      | Geralmente maior que CPLD                                                  |
+| Consumo de Energia       | Consumo moderado de energia                    | Consumo variável de acordo com a configuração                              |
+| Tempo de Inicialização   | Inicialização mais rápida                      | Inicialização mais demorada                                                |
+| Uso Comum                | Controladores, interfaces, sistemas embarcados | Prototipagem rápida, processamento paralelo, controle de hardware          |
+| Exemplo de Aplicação     | Controladores lógicos, sistemas sequenciais    | Prototipagem de hardware, processamento paralelo, aceleração de algoritmos |
+|__________________________|________________________________________________|____________________________________________________________________________|
