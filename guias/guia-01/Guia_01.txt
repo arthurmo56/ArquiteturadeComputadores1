@@ -1,0 +1,225 @@
+Nome: Arthur Martinho Medeiros Oliveira
+Matricula:813168
+01a.)
+a.) 26(10) = X(2)
+26 / 2 = 13 (resto 0)
+13 / 2 = 6 (resto 1)
+6 / 2 = 3 (resto 0)
+3 / 2 = 1 (resto 1)
+1 / 2 = 0 (resto 1)
+
+26(10) = 11010(2)
+
+b.) 53(10) = X(2)
+53 / 2 = 26 (resto 1)
+26 / 2 = 13 (resto 0)
+13 / 2 = 6 (resto 1)
+6 / 2 = 3 (resto 0)
+3 / 2 = 1 (resto 1)
+1 / 2 = 0 (resto 1)
+
+53(10) = 110101(2)
+
+c.) 723(10) = X(2)
+723 / 2 = 361 (resto 1)
+361 / 2 = 180 (resto 1)
+180 / 2 = 90 (resto 0)
+90 / 2 = 45 (resto 0)
+45 / 2 = 22 (resto 1)
+22 / 2 = 11 (resto 0)
+11 / 2 = 5 (resto 1)
+5 / 2 = 2 (resto 1)
+2 / 2 = 1 (resto 0)
+1 / 2 = 0 (resto 1)
+
+723(10) = 1011010011(2)
+
+d.) 312(10) = X(2)
+312 / 2 = 156 (resto 0)
+156 / 2 = 78 (resto 0)
+78 / 2 = 39 (resto 0)
+39 / 2 = 19 (resto 1)
+19 / 2 = 9 (resto 1)
+9 / 2 = 4 (resto 1)
+4 / 2 = 2 (resto 0)
+2 / 2 = 1 (resto 0)
+1 / 2 = 0 (resto 1)
+
+312(10) = 100111000(2)
+
+e.) 365(10) = X(2)
+365 / 2 = 182 (resto 1)
+182 / 2 = 91 (resto 0)
+91 / 2 = 45 (resto 1)
+45 / 2 = 22 (resto 1)
+22 / 2 = 11 (resto 0)
+11 / 2 = 5 (resto 1)
+5 / 2 = 2 (resto 1)
+2 / 2 = 1 (resto 0)
+1 / 2 = 0 (resto 1)
+
+365(10) = 101101101(2)
+
+02a.)
+a.) 10110(2) = X(10)
+1 * 2^4 + 0 * 2^3 + 1 * 2^2 + 1 * 2^1 + 0 * 2^0
+16 + 0 + 4 + 2 + 0
+
+10110(2) = 22(10)
+
+b.) 11011(2) = X(10)
+1 * 2^4 + 1 * 2^3 + 0 * 2^2 + 1 * 2^1 + 1 * 2^0
+16 + 8 + 0 + 2 + 1
+
+11011(2) = 27(10)
+
+c.) 100100(2) = X(10)
+1 * 2^5 + 0 * 2^4 + 0 * 2^3 + 1 * 2^2 + 0 * 2^1 + 0 * 2^0
+32 + 0 + 0 + 4 + 0 + 0
+
+100100(2) = 36(10)
+
+d.) 101001(2) = X(10)
+
+1 * 2^5 + 0 * 2^4 + 1 * 2^3 + 0 * 2^2 + 0 * 2^1 + 1 * 2^0
+32 + 0 + 8 + 0 + 0 + 1
+
+101001(2) = 41(10)
+
+e.) 110111(2) = X(10)
+1 * 2^5 + 1 * 2^4 + 0 * 2^3 + 1 * 2^2 + 1 * 2^1 + 1 * 2^0
+32 + 16 + 0 + 4 + 2 + 1
+
+110111(2) = 55(10)
+
+03a.)
+a.) 61(10) = X(4)
+61 / 4 = 15 (resto 1)
+15 / 4 = 3 (resto 3)
+3 / 4 = 0 (resto 3)
+
+61(10) = 133(4)
+
+b.) 54(10) = X(8)
+54 / 8 = 6 (resto 6)
+6 / 8 = 0 (resto 6)
+
+54(10) = 66(8)
+
+c.) 77(10) = X(16)
+77 / 16 = 4 (resto 13)
+4 / 16 = 0 (resto 4)
+
+77(10) = 4D(16)
+
+d.) 151(10) = X(16)
+151 / 16 = 9 (resto 7)
+9 / 16 = 0 (resto 9)
+
+151(10) = 97(16)
+
+e.) 738(10) = X(16)
+738 / 16 = 46 (resto 2)
+46 / 16 = 2 (resto 14)
+2 / 16 = 0 (resto 2)
+
+738(10) = 2EA(16)
+
+04a.)
+a.) 10101(2) = X(4)
+10 101(2)
+10(2) = 2(4)
+101(2) = 11(4)
+
+10101(2) = 211(4)
+
+b.) 11010(2) = X(8)
+011 010(2)
+011(2) = 3(8)
+010(2) = 2(8)
+
+11010(2) = 32(8)
+
+c.) 100111(2) = X(16)
+1001 11(2)
+1001(2) = 9(16)
+11(2) = 3(16)
+
+100111(2) = 93(16)
+
+d.) 101001(2) = X(8)
+101 001(2)
+101(2) = 5(8)
+001(2) = 1(8)
+
+101001(2) = 51(8)
+
+e.) 101101(2) = X(4)
+10 110 1(2)
+10(2) = 2(4)
+110(2) = 12(4)
+1(2) = 1(4)
+
+101101(2) = 2121(4)
+
+05a.)
+a.) “PUC-Minas” = X(16_ASCII)
+P -> 80 (hexadecimal)
+U -> 85 (hexadecimal)
+C -> 43 (hexadecimal)
+- -> 2D (hexadecimal)
+M -> 4D (hexadecimal)
+i -> 69 (hexadecimal)
+n -> 6E (hexadecimal)
+a -> 61 (hexadecimal)
+s -> 73 (hexadecimal)
+
+“PUC-Minas” = 50 55 43 2D 4D 69 6E 61 73 (16_ASCII)
+
+b.) “2023-02” = X(16_ASCII)
+2 -> 32 (hexadecimal)
+0 -> 30 (hexadecimal)
+2 -> 32 (hexadecimal)
+3 -> 33 (hexadecimal)
+- -> 2D (hexadecimal)
+0 -> 30 (hexadecimal)
+2 -> 32 (hexadecimal)
+
+“2023-02” = 32 30 32 33 2D 30 32 (16_ASCII)
+
+c.) “Belo Horizonte" = X(2_ASCII)
+B -> 42 (hexadecimal)
+e -> 65 (hexadecimal)
+l -> 6C (hexadecimal)
+o -> 6F (hexadecimal)
+  -> 20 (hexadecimal)
+H -> 48 (hexadecimal)
+o -> 6F (hexadecimal)
+r -> 72 (hexadecimal)
+i -> 69 (hexadecimal)
+z -> 7A (hexadecimal)
+o -> 6F (hexadecimal)
+n -> 6E (hexadecimal)
+t -> 74 (hexadecimal)
+e -> 65 (hexadecimal)
+
+“Belo Horizonte” = 42 65 6C 6F 20 48 6F 72 69 7A 6F 6E 74 65 (2_ASCII)
+
+d.) 116 157 151 164 145 (8) = X(ASCII)
+116 -> 74 (hexadecimal) -> t
+157 -> 6F (hexadecimal) -> o
+151 -> 67 (hexadecimal) -> i
+164 -> 74 (hexadecimal) -> t
+145 -> 65 (hexadecimal) -> e
+
+116 157 151 164 145 (8) = "toite" (ASCII)
+
+e.) 4D 2E 20 47 2E (16) = X(ASCII)
+4D -> 4D (hexadecimal) -> M
+2E -> 2E (hexadecimal) -> .
+20 -> 20 (hexadecimal) -> (espaço)
+47 -> 47 (hexadecimal) -> G
+2E -> 2E (hexadecimal) -> .
+
+4D 2E 20 47 2E (16) = "M. G." (ASCII)
+
