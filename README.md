@@ -1,7 +1,7 @@
 # ArquiteturadeComputadores1
 Este curso aborda os princípios fundamentais da arquitetura de computadores, fornecendo uma compreensão abrangente das tecnologias e conceitos subjacentes aos sistemas computacionais modernos.
 
-# 1. Introdução
+- 1. Introdução
 Nesta seção, os alunos são introduzidos aos conceitos básicos da arquitetura de computadores, incluindo tipos de computadores, modelo de arquitetura de computador e suas principais unidades funcionais.
 
 # 2. Sistemas de Numeração e Lógica Digital
