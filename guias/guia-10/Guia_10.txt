@@ -1,0 +1,38 @@
+Guia 10
+Nome: Arthur Martinho Medeiros Oliveira
+Matricula: 813168
+
+1a)
+000000110
+
+b)
+0000000001
+
+
+2a)
+00000111000
+
+b)
+000000000110
+
+
+3a)
+1111
+
+b)
+1110
+
+
+4a)
+1111(4 vezes)
+
+b)
+111111(6 vezes)
+
+
+5a)
+0
+
+b)
+1
+
